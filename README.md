@@ -1,1 +1,1 @@
-The build file is too big to add to this Github repo.
+The build folder is too big to add to this GitHub repo.
